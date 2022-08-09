@@ -1,4 +1,4 @@
-#ifndef MAIN_H
+#ifndef MAIN
 #define MAIN_H
 #include <stdarg.h>
 #include <stdio.h>
