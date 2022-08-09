@@ -1,4 +1,4 @@
-#include "main.h"
+Gtf#include "main.h"
 
 /************************* PRINT CHAR *************************/
 
