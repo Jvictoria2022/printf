@@ -1,4 +1,4 @@
-#linclude "main.h"
+#include "main.h"
 
 /****************** PRINT POINTER ******************/
 /**
